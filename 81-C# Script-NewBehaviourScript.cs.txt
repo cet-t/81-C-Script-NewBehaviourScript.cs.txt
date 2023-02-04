@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 // using MySpace;
 
-public class BossMovements : MonoBehaviour
+public class #SCRIPTNAME# : MonoBehaviour
 {
     void Awake()
     {
