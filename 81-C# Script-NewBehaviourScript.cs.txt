@@ -17,6 +17,17 @@ public class #SCRIPTNAME# : MonoBehaviour
 
     void Update()
     {
-
+        Def();
+        DEBUG();
+    }
+    
+    void Def()
+    {
+        
+    }
+    
+    void DEBUG()
+    {
+        
     }
 }
